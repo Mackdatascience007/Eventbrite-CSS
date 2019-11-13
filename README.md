@@ -15,10 +15,10 @@ Elle contient des views de différents atomes, molécules et organismes.
 
 ## Fonctionnalités présentes
 
-* Contient les models et tables demandés (cf les fichiers de migration pour le détail des attributs)
-* Contient le seed permettant de remplir la BDD pour effectuer les tests
-* Controller avec liens
-* Views avec présentations
+* Travaux effectués sur différentes views
+* Contient ldes atomes, molécules et organismes
+* Certains liens appels d'autres pages html
+
 
 
 ***
