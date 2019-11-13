@@ -5,7 +5,13 @@
 
 
 L'app ne fait rien pour l'instant. 
+À partir d'un thème Bootswatch nous devions réaliser plusieurs créations.
 Elle contient des views de différents atomes, molécules et organismes.
+
+## THEME CHOISIT
+
+https://bootswatch.com/lumen/
+
 
 ## ATOMIC DESIGN c'est de la BOMBE !!!
 
